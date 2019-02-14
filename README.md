@@ -1,4 +1,4 @@
-# bfoote/lede
+# bfoote/ptp-build-docker
 
 Docker image for building a lede environment
 [https://github.com/bnfinet/lede-docker]
