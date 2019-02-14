@@ -1,7 +1,7 @@
 # bfoote/ptp-build-docker
 
-Docker image for building a lede environment
-[https://github.com/bnfinet/lede-docker]
+Docker image for building a openwrt environment
+https://github.com/bnfinet/ptp-build-docker
 
 the longer term goal is to provide a dockerized build of [https://personaltelco.net/wiki](PersonalTelco) images
 
